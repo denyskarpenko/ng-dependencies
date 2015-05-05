@@ -1,6 +1,6 @@
 'use strict';
 
-var esprima = require('esprima');
+var esprima = require('esprima-fb');
 var estraverse = require('estraverse');
 var _ = require('lodash');
 
