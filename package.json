@@ -13,7 +13,7 @@
     "url": "git://github.com/klei/ng-dependencies"
   },
   "dependencies": {
-    "esprima": "git+https://github.com/jquery/esprima.git#harmony",
+    "esprima": "^2.2.0",
     "estraverse": "^1.5.1",
     "lodash": "^3.0.1"
   },
